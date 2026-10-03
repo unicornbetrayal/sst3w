@@ -1,0 +1,11 @@
+.pfp {
+  border-radius: 50%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  scale: 50px;
+  text-align: center;
+}
