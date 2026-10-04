@@ -1,5 +1,6 @@
 # sst3w
-sst3w
+sst3w:
+http://sst3w.com/
 
 ## pushing and commitinbg
 ```sh
