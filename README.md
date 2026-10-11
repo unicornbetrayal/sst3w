@@ -1,4 +1,7 @@
 # sst3w
+
+<img width="200" height="300" alt="sst3w" src="https://github.com/user-attachments/assets/cea34cdf-bec2-48fb-bc56-9538e226ce80" />
+
 sst3w:
 http://sst3w.com/
 
